@@ -1,7 +1,7 @@
 Training the ML models
 ==================================
 
-Before proceeding to traing the ML models, do the following.
+Before proceeding to training the ML models, do the following.
 
 1) Define data_dir, graph_dir, log_path, and ray_dir in `paths.json` to convenient locations.
 
