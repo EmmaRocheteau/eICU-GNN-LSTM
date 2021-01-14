@@ -1,0 +1,7 @@
+{
+    "eICU_path": "app/eICU_data/",
+    "log_path": "app/logs/",
+    "data_dir": "app/data/",
+    "graph_dir": "app/graphs/",
+    "ray_dir": "app/ray_results/"
+}
