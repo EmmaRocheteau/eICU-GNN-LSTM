@@ -1,6 +1,7 @@
 # custom
 .out
 .sh
+.paths.json.swp
 slurm_scripts/
 .idea
 miscellaneous
