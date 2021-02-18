@@ -2,7 +2,6 @@ import os
 import csv
 import pickle
 import json
-from pathlib import Path
 
 
 def write_pkl(data, path, verbose=1):

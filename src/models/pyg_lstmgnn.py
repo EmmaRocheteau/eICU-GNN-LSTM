@@ -4,7 +4,6 @@ Defining LSTM-GNN models
 from tqdm import tqdm
 import torch
 import torch.nn as nn
-import torch.nn.functional as F
 from src.models.lstm import define_lstm_encoder
 from src.models.pyg_ns import define_ns_gnn_encoder
 from src.models.utils import init_weights, get_act_fn

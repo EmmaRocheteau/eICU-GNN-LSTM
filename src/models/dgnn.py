@@ -1,8 +1,6 @@
 """
 Defining Dyanmics LSTM-GNN models
 """
-import numpy as np
-from scipy import sparse
 import torch
 import torch.nn as nn
 from src.models.lstm import define_lstm_encoder

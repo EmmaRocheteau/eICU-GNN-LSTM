@@ -10,7 +10,7 @@ Before proceeding to training the ML models, do the following.
     python3 -m src.dataloader.convert
     ```
 
-The following commands trains and evaluates the models introduced in our paper.
+The following commands train and evaluate the models introduced in our paper.
 
 N.B.
 

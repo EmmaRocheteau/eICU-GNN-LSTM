@@ -1,11 +1,9 @@
 """
 Defining LSTM models
 """
-import numpy as np
 import torch
 import torch.nn as nn
 from src.models.utils import init_weights, get_act_fn
-from src.models.attention import ContextAttention, SelfAttention
 
 
 def define_lstm_encoder():
