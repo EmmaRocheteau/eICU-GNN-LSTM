@@ -1,7 +1,9 @@
 Predicting Patient Outcomes with Graph Representation Learning
 ===============================
 
-This repository contains the code used for Predicting Patient Outcomes with Graph Representation Learning. 
+This repository contains the code used for Predicting Patient Outcomes with Graph Representation Learning. You can watch a video of the spotlight talk at W3PHIAI (AAAI workshop) here:
+
+[![Watch the video](https://img.youtube.com/vi/Q_VrAYL8Tho/maxresdefault.jpg)](https://www.youtube.com/watch?v=Q_VrAYL8Tho)
  
 ## Citation
 If you use this code or the models in your research, please cite the following:
