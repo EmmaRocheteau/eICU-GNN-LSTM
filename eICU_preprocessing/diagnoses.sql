@@ -37,7 +37,7 @@ create materialized view diagnoses as
   -- for admission diagnoses:
   select ad.patientunitstayid, ad.admitdxpath as diagnosisstring
     from admissiondx as ad
-    inner join ld_labels as l on l.patientunitstayid = ad.patientunitstayid
+    inner join labels as l on l.patientunitstayid = ad.patientunitstayid
     inner join patient as p on p.patientunitstayid = ad.patientunitstayid
     where ad.admitdxenteredoffset < 1440;
 -- It extracts data from 89143 patients
